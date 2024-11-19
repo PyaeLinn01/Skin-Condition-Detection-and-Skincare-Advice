@@ -11,7 +11,7 @@ This is a Streamlit-based web application for detecting various skin conditions 
 
 ## Demo
 
-🎯 Check out the live demo: [Your Deployed Link Here](#)
+🎯 Check out the live demo: https://facecare.streamlit.app/
 
 ---
 
