@@ -9,9 +9,9 @@ This is a Streamlit-based web application for detecting various skin conditions 
 - **Interactive UI**: Upload an image and view detection results with bounding boxes and confidence scores.
 - **Supports YOLO Models**: Utilizes custom-trained YOLO models for skin condition detection.
 
-## Demo
+## Streamlit Deploy
 
-🎯 Check out the live demo: https://facecare.streamlit.app/
+🎯 Check out my streamlit app: https://facecare.streamlit.app/
 
 ---
 
