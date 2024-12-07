@@ -135,7 +135,7 @@ def process_frame_with_results(cv_image):
             confidence = box.conf[0]
             class_name = class_labels.get(cls, "Unknown")
 
-            cvzone.putTextRect(cv_image, f'{class_name} ({confidence:.2f})', (x1, y1 - 10), scale=5, thickness=2)
+            cvzone.putTextRect(cv_image, f'{class_name} ({confidence:.2f})', (x1, y1 - 10), scale=2, thickness=2)
             cvzone.cornerRect(cv_image, (x1, y1, x2 - x1, y2 - y1))
 
             detected_classes.add(class_name)
